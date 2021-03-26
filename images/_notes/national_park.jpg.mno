@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="dw_new_image_map" value="&lt;MAP name=&quot;Map&quot; id=&quot;Map&quot;&gt;&#xD;    &lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;215,51,342,75&quot; HREF=&quot;../park/yangmingshan.html&quot; TARGET=&quot;imain&quot; /&gt;&#xD;    &lt;AREA SHAPE=&quot;poly&quot; COORDS=&quot;288,178&quot; HREF=&quot;#&quot; /&gt;&#xD;    &lt;AREA SHAPE=&quot;poly&quot; COORDS=&quot;289,178,294,183,307,183,320,190,319,204,311,216,297,224,287,225,279,217,271,210,272,198,279,191,284,180&quot; HREF=&quot;../park/sheipa.html&quot; TARGET=&quot;imain&quot; /&gt;&#xD;  &lt;/MAP&gt;" />
+</info>
